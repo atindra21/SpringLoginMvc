@@ -1,0 +1,46 @@
+ form,h3,div{
+	text-align: center;
+ }
+ .blank{
+	color: white;
+ }
+ #button{
+	background-color: darkcyan;
+	color:white;
+ }
+ a{
+	color:black;
+	font-weight: bold;
+ }
+ #isPresentID{
+ 	color: red;
+ 	font-style: italic;
+ }
+ table{
+ 	margin-left: auto;
+ 	margin-right: auto;
+ }
+ h2{
+ 	color:#FFFFFF;
+	background-color:darkcyan;
+	margin:0;
+	padding-bottom:20px;
+	padding-top:20px
+ }
+ body{
+ 	background-color: floralwhite;
+ }
+ #signupform{
+ 	background-color :white;
+    top: 24%;
+    width: 42%;
+    position: absolute;
+    right: 29%;
+}
+#pcscreen{
+	height: 79%;
+    width: 71%;
+    z-index: -2;
+    position: absolute;
+    left: 16%;
+}

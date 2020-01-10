@@ -1,0 +1,47 @@
+#page_header{
+	color:#FFFFFF;
+	background-color:darkcyan;
+	top: 0;
+	margin:0;
+	padding-bottom:10px;
+	padding-top:15px;
+ }
+ #pagetitle{
+	font-size: 28px;
+	font-family:unset;
+	font-weight:bold;
+	color: white;
+	margin-left: 0%
+ }
+ .stickey{
+ 	position: fixed;
+ 	top: 0;
+	width: 100%;
+ }
+ h2{
+ 	color: #F94A7E;
+ 	text-align:center;
+ }
+ .passrow,.userrow{
+ 	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	text-align:center;
+ }
+ span.titles{
+ 	font-size: 18px;
+ 	color:#8080ff;
+ 	cursor: pointer;
+ }
+ span.tabledatakey,span.tabledatavalue{
+ 	width:100px
+ }
+ .tablerow,div{
+ 	text-align:center;
+ }
+ body{
+ 	background-color: floralwhite;
+ }
+ #isMatchedId{
+ 	color:green;
+ }
